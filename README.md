@@ -37,7 +37,7 @@ Website katalog produk yang dirancang dengan estetika **Modern Dark Mode** yang 
 
 5. **Mode Administrator (Akses Aman)**:
    - Tombol diskret **"Login Admin"** di bagian footer (petunjuk password telah disembunyikan untuk menjaga privasi).
-   - **Password Bawaan Awal**: `dadan123` (dapat diubah kapan saja di menu Ganti Password).
+   - **Password Bawaan Awal**: `xxxxxxxx` (dapat diubah kapan saja di menu Ganti Password).
    - **Mode Pengunjung (Bawaan)**: Tombol "+ Tambah Produk", "Edit", "Hapus", dan "Reset Bawaan" tersembunyi sepenuhnya sehingga antarmuka tetap bersih dan rapi.
    - **Mode Admin (Aktif)**: Menampilkan tombol "+ Tambah Produk", "Pengaturan Toko", "Ganti Password", tombol "Edit" dan "Hapus" pada setiap kartu dan pop-up detail produk, serta tombol "Mode Admin (Keluar)" di footer.
 
